@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+
+img{
+	width:100px;
+}
+.container{
+	margin-left:30%;
+}
+section{
+	padding-top:10px;
+	margin-left:30%;
+}
+progress{
+	margin-left:10%;
+}
